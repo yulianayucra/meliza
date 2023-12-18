@@ -1,0 +1,64 @@
+body{
+    background: rgb(47, 45, 45);
+}
+.content-b{
+    background: green;
+    padding-top: 40px;
+}
+.columna-b{
+    height: 120px;
+    background: rgb(233, 227, 227);
+    border: 2px solid #000;
+    margin-bottom: 10px;
+}
+.form-portafolio{
+    background: #033f3f;
+    padding: 30px;
+    border-radius: 30px;
+}
+.form-portafolio label{
+    font-size: 20px;
+    background: #dedada;
+}
+.form-portafolio input{
+    background: transparent;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border: 2px solid #666;
+    padding: 20px 15px;
+}
+.form-portafolio input{
+    background: transparent;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 0 0 transparent;
+}
+.nav-portafolio{
+    background: #0af9a6;
+}
+.nav-portafolio ul li{
+    margin: 0 5px;
+}
+.nav-portafolio ul li a{
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    border-bottom: 2px solid #fff;
+}
+.modal-portafolio .modal-header{
+    background: #0af9a6;
+}
+.modal-portafolio .modal-body p{
+    font-size: 25px;
+}
+#carouselHeroCaptions .carousel-item .carousel-caption{
+    bottom: 45%;
+}
+#carouselHeroCaptions .carousel-item .carousel-caption h5{
+    font-size: 50px;
+    background: rgba(0, 0, 1, 0.538);
+    padding: 30px;
+}
+.container h2{
+    color: #fff;
+}
